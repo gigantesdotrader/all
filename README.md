@@ -21,9 +21,9 @@ Group Facebook: Under Construction
 --
 Operation Mode: Digital Options (or Binary Options)
 --
-1. Expiration: 5 minutes
+1. Candle Expiration: 5 minutes
 2. Input: 20~60
-3. Expiration: 15 minutes
+3. Candle Expiration: 15 minutes
 4. Input: 4
 5. Price: $75 /month
 --------------------------------------------------------------------------
