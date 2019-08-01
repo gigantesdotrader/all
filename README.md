@@ -2,8 +2,7 @@
 --------------------------------------------------------------------------
 Free Market Sign List - Forex/Index/Crypto/Currency
 --------------------------------------------------------------------------
-
-
+~
 *Trader Giants*
 Official Site: http://bit.ly/2ZlEI3v
 --------------------------------------------------------------------------
@@ -15,8 +14,7 @@ Group Instagram: http://bit.ly/2YeIijn
 --------------------------------------------------------------------------
 Group Facebook: Under Construction
 --------------------------------------------------------------------------
-
-
+~
 *VIP LIST TG TEAM*
 --
 Operation Mode: Digital Options (or Binary Options)
@@ -43,4 +41,3 @@ Questions and answers
 9. How many operations are available on the free list?
 10. A: Five a day.
 --------------------------------------------------------------------------
-//
