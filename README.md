@@ -1,26 +1,22 @@
 # Gigantes do Trader
 --------------------------------------------------------------------------
-
+,
 Free Market Sign List - Forex/Index/Crypto/Currency
---------------------------------------------------------------------------
+,
 *Trader Giants*
 Official Site: http://bit.ly/2ZlEI3v
---------------------------------------------------------------------------
 Group Telegram Global: http://bit.ly/2OvkraF
---------------------------------------------------------------------------
 Group Whatsapp Brazil: http://bit.ly/2YmS5Ec
---------------------------------------------------------------------------
 Group Instagram: http://bit.ly/2YeIijn
---------------------------------------------------------------------------
 Group Facebook: Under Construction
---------------------------------------------------------------------------
+,
 *VIP LIST TG TEAM*
-Operation Mode: Digital Options (or Binary Options)
-Expiration: 5 minutes
-Input: 20~60
-Expiration: 15 minutes
-Input: 4
-Price: $75 /month
+Operation Mode: Digital Options (or Binary Options),
+Expiration: 5 minutes,
+Input: 20~60,
+Expiration: 15 minutes,
+Input: 4,
+Price: $75 /month,
 --------------------------------------------------------------------------
 Questions and answers
 --------------------------------------------------------------------------
