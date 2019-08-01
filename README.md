@@ -14,11 +14,17 @@ Group Instagram: http://bit.ly/2YeIijn
 Group Facebook: Under Construction
 --------------------------------------------------------------------------
 *VIP LIST TG TEAM*
+~
 Operation Mode: Digital Options (or Binary Options)
+~
 Expiration: 5 minutes
+~
 Input: 20~60
+~
 Expiration: 15 minutes
+~
 Input: 4
+~
 Price: $75 /month
 --------------------------------------------------------------------------
 Questions and answers
