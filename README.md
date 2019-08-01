@@ -27,22 +27,20 @@ Operation Mode: Digital Options (or Binary Options)
 4. Input: 4
 5. Price: $75 /month
 --------------------------------------------------------------------------
-
-
 Questions and answers
 --------------------------------------------------------------------------
 1. Which brokerage do you trade?
-2. Any broker that does digital options operations (binary). We recommend IQ Option
+2. A: Any broker that does digital options operations (binary). We recommend IQ Option
 --------------------------------------------------------------------------
 3. What time are signals provided?
-a) 21:30~23:00 (New York)
-b) 22:30~00:00 (Brasília)
-c) 02:30~04:00 (London)
+4. A: 21:30~23:00 (New York)
+5. A: 22:30~00:00 (Brasília)
+6. A: 02:30~04:00 (London)
 --------------------------------------------------------------------------
-4. How do i join the vip list?
-5. Contact an administrator.
+7. How do i join the vip list?
+8. A: Contact an administrator.
 --------------------------------------------------------------------------
-6. How many operations are available on the free list?
-7. Five a day.
+9. How many operations are available on the free list?
+10. A: Five a day.
 --------------------------------------------------------------------------
 //
