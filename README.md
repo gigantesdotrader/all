@@ -14,7 +14,9 @@ Group Instagram: http://bit.ly/2YeIijn
 Group Facebook: Under Construction
 --------------------------------------------------------------------------
 *VIP LIST TG TEAM*
+--
 Operation Mode: Digital Options (or Binary Options)
+--
 1. Expiration: 5 minutes
 2. Input: 20~60
 3. Expiration: 15 minutes
