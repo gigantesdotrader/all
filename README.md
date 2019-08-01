@@ -31,17 +31,14 @@ Operation Mode: Digital Options (or Binary Options)
 
 Questions and answers
 --------------------------------------------------------------------------
-Q: Which brokerage do you trade?
-A: Any broker that does digital options operations (binary). We recommend IQ Option
-//
-Q: What time are signals provided?
+1. Which brokerage do you trade?
+2. Any broker that does digital options operations (binary). We recommend IQ Option
+3. What time are signals provided?
 a. 21:30~23:00 (New York)
 b. 22:30~00:00 (Brasília)
 c. 02:30~04:00 (London)
-//
-Q: How do i join the vip list?
-A: Contact an administrator.
-//
-Q: How many operations are available on the free list?
-A: Five a day.
+4. How do i join the vip list?
+5. Contact an administrator.
+6. How many operations are available on the free list?
+7. Five a day.
 //
