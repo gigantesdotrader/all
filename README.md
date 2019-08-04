@@ -5,13 +5,13 @@ Free Market Sign List - Forex/Index/Crypto/Currency
 
 
 *Trader Giants*
-Official Site: http://bit.ly/2ZlEI3v
+Official Site: http://bit.ly/2YJQ9AB
 --------------------------------------------------------------------------
-Group Telegram Global: http://bit.ly/2OvkraF
+Group Telegram Global: http://bit.ly/2GLl8Gw
 --------------------------------------------------------------------------
-Group Whatsapp Brazil: http://bit.ly/2YmS5Ec
+Group Whatsapp Brazil: http://bit.ly/2T3f6Gd
 --------------------------------------------------------------------------
-Group Instagram: http://bit.ly/2YeIijn
+Group Instagram: http://bit.ly/2Kj26cV
 --------------------------------------------------------------------------
 Group Facebook: Under Construction
 --------------------------------------------------------------------------
