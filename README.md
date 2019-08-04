@@ -2,12 +2,12 @@
 --------------------------------------------------------------------------
 Free Market Sign List - Forex/Index/Crypto/Currency
 --------------------------------------------------------------------------
-The free group offers 05 signals per day.
-$0/ month
+1. The free group offers 05 signals per day.
+2. $0/ month
 --------------------------------------------------------------------------
-VIP group offers 20 ~ 70 signals per day.
-$75/ month
-R: Contact an administrator.
+3. VIP group offers 20 ~ 70 signals per day.
+4. $75/ month
+5. R: Contact an administrator.
 --------------------------------------------------------------------------
 
 *Trader Giants*
