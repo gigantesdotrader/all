@@ -1,4 +1,4 @@
-# Gigantes do Trader
+# Submarino Trader
 --------------------------------------------------------------------------
 Free Market Sign List - Forex/Index/Crypto/Currency
 --------------------------------------------------------------------------
@@ -10,28 +10,27 @@ Free Market Sign List - Forex/Index/Crypto/Currency
 5. R: Contact an administrator.
 --------------------------------------------------------------------------
 
-*Trader Giants*
-Official Site: http://bit.ly/2YJQ9AB
+*Submarino Trader*
+Official Site: Under Construction
 --------------------------------------------------------------------------
-Group Telegram Global: http://bit.ly/2GLl8Gw
+Group Telegram Global: http://bit.ly/33LP8vT
 --------------------------------------------------------------------------
-Group Whatsapp Brazil: http://bit.ly/2T3f6Gd
+Group Whatsapp Brazil: http://bit.ly/2ZpHXdc
 --------------------------------------------------------------------------
-Group Instagram: http://bit.ly/2Kj26cV
+Group Instagram: Under Construction
 --------------------------------------------------------------------------
 Group Facebook: Under Construction
 --------------------------------------------------------------------------
+Free Book Group Access: http://bit.ly/2Zkf6XM
+--------------------------------------------------------------------------
 
 
-*VIP LIST TG TEAM*
+*VIP LIST ST TEAM*
 --
 Operation Mode: Digital Options (or Binary Options)
 --
 1. Candle Expiration: 5 minutes
-2. Number of Entries: 20~60
-3. Candle Expiration: 15 minutes
-4. Number of Entries: 4
-5. Price: $75 /month
+2. Number of Entries: 20~70
 --------------------------------------------------------------------------
 Questions and answers
 --------------------------------------------------------------------------
